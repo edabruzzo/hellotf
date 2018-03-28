@@ -3,7 +3,7 @@
   <groupId>org.myorg</groupId>
   <artifactId>hellotf</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>HelloTF</name>
+  <name>hellotf</name>
   
    <properties>
        <exec.mainClass>HelloTF</exec.mainClass>
